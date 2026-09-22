@@ -21,18 +21,23 @@
   <img src="https://img.shields.io/badge/-Linux-3D2630?style=flat-square&logo=linux&logoColor=E05A88" alt="Linux"/>
 </p>
 
-<!-- 🏆 GitHub Achievements (Vector SVGs) -->
+<!-- 🏆 GitHub Achievements -->
 <h3 align="center" style="color: #E05A88;">🏆 GitHub Achievements</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/drknsl/github-achievements/main/badges/pull-shark-default.svg" width="95" height="95" alt="Pull Shark" />
+  <!-- Pull Shark (Original Blue) -->
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="95" height="95" alt="Pull Shark Blue" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/drknsl/github-achievements/main/badges/pull-shark-bronze.svg" width="95" height="95" alt="Pull Shark Bronze" />
+  <!-- Pull Shark (Bronze Tier) -->
+  <img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="95" height="95" alt="Pull Shark Bronze" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/drknsl/github-achievements/main/badges/quickdraw-default.svg" width="95" height="95" alt="Quickdraw" />
+  <!-- Quickdraw -->
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="95" height="95" alt="Quickdraw" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/drknsl/github-achievements/main/badges/yolo-default.svg" width="95" height="95" alt="YOLO" />
+  <!-- YOLO -->
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff049e3.png" width="95" height="95" alt="YOLO" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/drknsl/github-achievements/main/badges/pair-extraordinaire-default.svg" width="95" height="95" alt="Pair Extraordinaire" />
+  <!-- Pair Extraordinaire -->
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-9994293a5168.png" width="95" height="95" alt="Pair Extraordinaire" />
 </p>
 
 <!-- 🔥 Streak Stats -->
