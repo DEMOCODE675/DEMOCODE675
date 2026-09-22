@@ -25,19 +25,16 @@
 <h3 align="center" style="color: #E05A88;">🏆 GitHub Achievements</h3>
 <p align="center">
   <!-- Pull Shark (Original Blue) -->
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="95" height="95" alt="Pull Shark Blue" />
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="95" height="95" style="border-radius: 50%;" alt="Pull Shark Blue" />
   &nbsp;&nbsp;
   <!-- Pull Shark (Bronze Tier) -->
-  <img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="95" height="95" alt="Pull Shark Bronze" />
+  <img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="95" height="95" style="border-radius: 50%;" alt="Pull Shark Bronze" />
   &nbsp;&nbsp;
   <!-- Quickdraw -->
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="95" height="95" alt="Quickdraw" />
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="95" height="95" style="border-radius: 50%;" alt="Quickdraw" />
   &nbsp;&nbsp;
   <!-- YOLO -->
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="95" height="95" alt="YOLO" />
-  &nbsp;&nbsp;
-  <!-- Pair Extraordinaire -->
-  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-e96288ea17c3.png" width="95" height="95" alt="Pair Extraordinaire" />
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="95" height="95" style="border-radius: 50%;" alt="YOLO" />
 </p>
 
 <!-- 🔥 Streak Stats -->
