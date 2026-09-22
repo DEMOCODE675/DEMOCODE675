@@ -47,8 +47,8 @@
   <a href="https://github.com/DEMOCODE675" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-1E1B1E?style=for-the-badge&logo=github&logoColor=D6C7B2" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://www.linkedin.com/in/priyanshu-baudh-510a3737b/?&logo=linkedin&logoColor=E05A88" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/priyanshu-baudh-510a3737b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-3D2630?style=for-the-badge&logo=linkedin&logoColor=E05A88" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-D6C7B2?style=for-the-badge&logo=leetcode&logoColor=1E1B1E" alt="LeetCode"/>
