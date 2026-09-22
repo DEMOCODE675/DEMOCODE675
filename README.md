@@ -37,7 +37,7 @@
   <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="95" height="95" alt="YOLO" />
   &nbsp;&nbsp;
   <!-- Pair Extraordinaire -->
-  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-9994293a5168.png" width="95" height="95" alt="Pair Extraordinaire" />
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-e96288ea17c3.png" width="95" height="95" alt="Pair Extraordinaire" />
 </p>
 
 <!-- 🔥 Streak Stats -->
