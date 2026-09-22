@@ -22,12 +22,9 @@
 </p>
 
 <!-- 🏆 GitHub Profile Trophies -->
-<h3 align="center" style="color: #E05A88;">🏆 GitHub Achievements</h3>
+<h3 align="center" style="color: #E05A88;">🏆 GitHub Profile Trophies</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="90" alt="Pull Shark" />
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="90" alt="Quickdraw" />
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="90" alt="YOLO" />
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="90" alt="Pair Extraordinaire" />
+  <img src="https://github-profile-trophy-nu.vercel.app/?username=DEMOCODE675&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="Trophies" />
 </p>
 
 <!-- 🔥 Streak Stats -->
