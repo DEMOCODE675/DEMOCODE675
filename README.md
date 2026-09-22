@@ -21,27 +21,44 @@
   <img src="https://img.shields.io/badge/-Linux-3D2630?style=flat-square&logo=linux&logoColor=E05A88" alt="Linux"/>
 </p>
 
-<!-- ⭐ FEATURED WORK / BEST PROJECTS -->
-<h3 align="center" style="color: #E05A88;">✨ Featured Repositories</h3>
-<p align="center">
-  <a href="https://github.com/DEMOCODE675/PROJECT-NAME-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DEMOCODE675&repo=PROJECT-NAME-1&bg_color=1E1B1E&title_color=E05A88&text_color=F5EBE6&icon_color=E05A88&border_color=3D2630" alt="Repo 1" />
-  </a>
-  <a href="https://github.com/DEMOCODE675/PROJECT-NAME-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DEMOCODE675&repo=PROJECT-NAME-2&bg_color=1E1B1E&title_color=E05A88&text_color=F5EBE6&icon_color=E05A88&border_color=3D2630" alt="Repo 2" />
-  </a>
-</p>
+<!-- ✨ FEATURED WORK TABLE (Clean, responsive, no API downtime) -->
+<h3 align="center" style="color: #E05A88;">✨ Featured Projects</h3>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #3D2630; padding: 12px; border-radius: 8px;">
+      <h4 style="margin: 0;"><a href="https://github.com/DEMOCODE675" style="color: #E05A88; text-decoration: none;">🚀 Project Title 1</a></h4>
+      <p style="color: #D6C7B2; font-size: 13px; margin: 8px 0;">
+        Full-stack web application built with modern architecture, responsive UI, and backend authentication.
+      </p>
+      <p style="margin: 0;">
+        <img src="https://img.shields.io/badge/React-3D2630?style=flat-square&logo=react&logoColor=E05A88" />
+        <img src="https://img.shields.io/badge/Tailwind-D6C7B2?style=flat-square&logo=tailwind-css&logoColor=1E1B1E" />
+      </p>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #3D2630; padding: 12px; border-radius: 8px;">
+      <h4 style="margin: 0;"><a href="https://github.com/DEMOCODE675" style="color: #E05A88; text-decoration: none;">🧩 Project Title 2</a></h4>
+      <p style="color: #D6C7B2; font-size: 13px; margin: 8px 0;">
+        Core implementations of Data Structures & Algorithms with optimal time and space complexity.
+      </p>
+      <p style="margin: 0;">
+        <img src="https://img.shields.io/badge/Java-3D2630?style=flat-square&logo=openjdk&logoColor=E05A88" />
+        <img src="https://img.shields.io/badge/DSA-D6C7B2?style=flat-square&logoColor=1E1B1E" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!-- Activity Graph -->
 <h3 align="center" style="color: #E05A88;">📈 Contribution Activity</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEMOCODE675&bg_color=1E1B1E&color=E05A88&line=E05A88&point=D6C7B2&area=true&area_color=3D2630&title_color=E05A88&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEMOCODE675&theme=react-dark&bg_color=1E1B1E&color=E05A88&line=E05A88&point=D6C7B2&area=true&area_color=3D2630&title_color=E05A88&hide_border=true" alt="Activity Graph" />
 </p>
 
 <!-- Stats & Top Languages -->
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=DEMOCODE675&show_icons=true&bg_color=1E1B1E&title_color=E05A88&text_color=F5EBE6&icon_color=E05A88&border_color=3D2630" alt="DEMOCODE675 Stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEMOCODE675&layout=compact&bg_color=1E1B1E&title_color=E05A88&text_color=F5EBE6&border_color=3D2630" alt="Top Languages" />
+  <img height="155" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DEMOCODE675&show_icons=true&bg_color=1E1B1E&title_color=E05A88&text_color=F5EBE6&icon_color=E05A88&border_color=3D2630" alt="Stats" />
+  <img height="155" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DEMOCODE675&layout=compact&bg_color=1E1B1E&title_color=E05A88&text_color=F5EBE6&border_color=3D2630" alt="Top Languages" />
 </p>
 
 <!-- Streak Stats -->
