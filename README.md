@@ -1,12 +1,12 @@
 <h1 align="center" style="color: #E05A88;">Hi 👋, I'm DEMOCODE675</h1>
 <h3 align="center" style="color: #D6C7B2;">Full-Stack Dev • DSA in Java • Exploring Cybersecurity</h3>
 
-<!-- Typing SVG (Dark Pink accent) -->
+<!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E05A88&center=true&vCenter=true&width=435&lines=Building+full-stack+web+apps;Solving+DSA+in+Java;Exploring+systems+%26+security" alt="Typing SVG" />
 </p>
 
-<!-- Tech Stack Badges (Dark Pink & Warm Beige Palette) -->
+<!-- Tech Stack Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-3D2630?style=flat-square&logo=openjdk&logoColor=E05A88" alt="Java"/>
   <img src="https://img.shields.io/badge/-C-D6C7B2?style=flat-square&logo=c&logoColor=1E1B1E" alt="C"/>
@@ -21,7 +21,24 @@
   <img src="https://img.shields.io/badge/-Linux-3D2630?style=flat-square&logo=linux&logoColor=E05A88" alt="Linux"/>
 </p>
 
-<!-- Stats & Top Languages (Customized Dark Pink & Beige) -->
+<!-- ⭐ FEATURED WORK / BEST PROJECTS -->
+<h3 align="center" style="color: #E05A88;">✨ Featured Repositories</h3>
+<p align="center">
+  <a href="https://github.com/DEMOCODE675/PROJECT-NAME-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DEMOCODE675&repo=PROJECT-NAME-1&bg_color=1E1B1E&title_color=E05A88&text_color=F5EBE6&icon_color=E05A88&border_color=3D2630" alt="Repo 1" />
+  </a>
+  <a href="https://github.com/DEMOCODE675/PROJECT-NAME-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DEMOCODE675&repo=PROJECT-NAME-2&bg_color=1E1B1E&title_color=E05A88&text_color=F5EBE6&icon_color=E05A88&border_color=3D2630" alt="Repo 2" />
+  </a>
+</p>
+
+<!-- Activity Graph -->
+<h3 align="center" style="color: #E05A88;">📈 Contribution Activity</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEMOCODE675&bg_color=1E1B1E&color=E05A88&line=E05A88&point=D6C7B2&area=true&area_color=3D2630&title_color=E05A88&hide_border=true" alt="Activity Graph" />
+</p>
+
+<!-- Stats & Top Languages -->
 <p align="center">
   <img height="155" src="https://github-readme-stats.vercel.app/api?username=DEMOCODE675&show_icons=true&bg_color=1E1B1E&title_color=E05A88&text_color=F5EBE6&icon_color=E05A88&border_color=3D2630" alt="DEMOCODE675 Stats" />
   <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEMOCODE675&layout=compact&bg_color=1E1B1E&title_color=E05A88&text_color=F5EBE6&border_color=3D2630" alt="Top Languages" />
@@ -32,12 +49,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEMOCODE675&background=1E1B1E&ring=E05A88&fire=E05A88&currStreakLabel=D6C7B2&stroke=3D2630&currStreakNum=F5EBE6&sideNums=F5EBE6&sideLabels=D6C7B2&dates=9C8E85" alt="Streak Stats" />
 </p>
 
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEMOCODE675&bg_color=1E1B1E&color=E05A88&line=E05A88&point=D6C7B2&area=true&area_color=3D2630&title_color=E05A88&hide_border=true" alt="Activity Graph" />
-</p>
-
-<!-- Social Links (Warm Beige & Velvet Rose) -->
+<!-- Social Links -->
 <p align="center">
   <a href="https://github.com/DEMOCODE675" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-1E1B1E?style=for-the-badge&logo=github&logoColor=D6C7B2" alt="GitHub"/>
@@ -50,7 +62,7 @@
   </a>
 </p>
 
-<!-- Profile Views (Dark Pink Badge) -->
+<!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DEMOCODE675&style=flat-square&color=E05A88" alt="profile views"/>
 </p>
