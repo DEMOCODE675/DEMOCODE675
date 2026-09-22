@@ -32,8 +32,8 @@
         Full-stack web application built with modern architecture, responsive UI, and backend authentication.
       </p>
       <p style="margin: 0;">
-        <img src="https://img.shields.io/badge/React-3D2630?style=flat-square&logo=react&logoColor=E05A88" alt="React" />
-        <img src="https://img.shields.io/badge/Tailwind-D6C7B2?style=flat-square&logo=tailwind-css&logoColor=1E1B1E" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/React-3D2630?style=flat-square&logo=react&logoColor=E05A88" alt="React"/>
+        <img src="https://img.shields.io/badge/Tailwind-D6C7B2?style=flat-square&logo=tailwind-css&logoColor=1E1B1E" alt="Tailwind"/>
       </p>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #3D2630; padding: 12px; border-radius: 8px;">
@@ -42,24 +42,23 @@
         Core implementations of Data Structures & Algorithms with optimal time and space complexity.
       </p>
       <p style="margin: 0;">
-        <img src="https://img.shields.io/badge/Java-3D2630?style=flat-square&logo=openjdk&logoColor=E05A88" alt="Java" />
-        <img src="https://img.shields.io/badge/DSA-D6C7B2?style=flat-square&logoColor=1E1B1E" alt="DSA" />
+        <img src="https://img.shields.io/badge/Java-3D2630?style=flat-square&logo=openjdk&logoColor=E05A88" alt="Java"/>
+        <img src="https://img.shields.io/badge/DSA-D6C7B2?style=flat-square&logoColor=1E1B1E" alt="DSA"/>
       </p>
     </td>
   </tr>
 </table>
 
-<!-- 🏆 GitHub Trophies -->
-<h3 align="center" style="color: #E05A88;">🏆 Achievements & Milestones</h3>
+<!-- 🐍 Contribution Activity -->
+<h3 align="center" style="color: #E05A88;">📈 Contribution Activity</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DEMOCODE675&theme=gitdimmed&column=6&margin-w=10&margin-h=10&no-bg=false&no-frame=true" alt="Trophies" />
+  <img src="https://svg-banners.terminal.sexy/banners/DEMOCODE675.svg" style="display:none;" />
+  <img src="https://raw.githubusercontent.com/DEMOCODE675/DEMOCODE675/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" onerror="this.onerror=null; this.src='https://github-readme-streak-stats.herokuapp.com/?user=DEMOCODE675&background=1E1B1E&ring=E05A88&fire=E05A88&currStreakLabel=D6C7B2&stroke=3D2630&currStreakNum=F5EBE6&sideNums=F5EBE6&sideLabels=D6C7B2&dates=9C8E85';" />
 </p>
 
-<!-- 📊 Stats & Top Languages -->
-<h3 align="center" style="color: #E05A88;">📊 Statistics</h3>
+<!-- 🏆 GitHub Profile Trophies -->
 <p align="center">
-  <img height="155" src="https://github-readme-stats.salesp07.workers.dev/api?username=DEMOCODE675&show_icons=true&bg_color=1E1B1E&title_color=E05A88&text_color=F5EBE6&icon_color=E05A88&border_color=3D2630" alt="Stats" />
-  <img height="155" src="https://github-readme-stats.salesp07.workers.dev/api/top-langs/?username=DEMOCODE675&layout=compact&bg_color=1E1B1E&title_color=E05A88&text_color=F5EBE6&border_color=3D2630" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DEMOCODE675&theme=gitdimmed&column=6&margin-w=10&margin-h=10&no-bg=false&no-frame=true" alt="Trophies" />
 </p>
 
 <!-- 🔥 Streak Stats -->
@@ -67,7 +66,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEMOCODE675&background=1E1B1E&ring=E05A88&fire=E05A88&currStreakLabel=D6C7B2&stroke=3D2630&currStreakNum=F5EBE6&sideNums=F5EBE6&sideLabels=D6C7B2&dates=9C8E85" alt="Streak Stats" />
 </p>
 
-<!-- 🌐 Social Links -->
+<!-- Social Links -->
 <p align="center">
   <a href="https://github.com/DEMOCODE675" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-1E1B1E?style=for-the-badge&logo=github&logoColor=D6C7B2" alt="GitHub"/>
@@ -80,7 +79,7 @@
   </a>
 </p>
 
-<!-- 👁️ Profile Views -->
+<!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DEMOCODE675&style=flat-square&color=E05A88" alt="profile views"/>
 </p>
