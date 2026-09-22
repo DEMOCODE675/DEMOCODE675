@@ -21,10 +21,18 @@
   <img src="https://img.shields.io/badge/-Linux-3D2630?style=flat-square&logo=linux&logoColor=E05A88" alt="Linux"/>
 </p>
 
-<!-- 🏆 GitHub Profile Trophies -->
-<h3 align="center" style="color: #E05A88;">🏆 GitHub Profile Trophies</h3>
+<!-- 🏆 GitHub Achievements -->
+<h3 align="center" style="color: #E05A88;">🏆 GitHub Achievements</h3>
 <p align="center">
-  <img width="850" src="https://github-profile-trophy-nu.vercel.app/?username=DEMOCODE675&theme=radical&column=4&margin-w=20&margin-h=20&no-bg=true&no-frame=true" alt="Trophies" />
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="95" height="95" alt="Pull Shark Blue" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-bronze.png" width="95" height="95" alt="Pull Shark Bronze" />
+  &nbsp;&nbsp;
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="95" height="95" alt="Quickdraw" />
+  &nbsp;&nbsp;
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff049e3.png" width="95" height="95" alt="YOLO" />
+  &nbsp;&nbsp;
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-9994293a5168.png" width="95" height="95" alt="Pair Extraordinaire" />
 </p>
 
 <!-- 🔥 Streak Stats -->
@@ -47,5 +55,5 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DEMOCODE675&style=flat-square&color=E05A88" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=DEMOCODE675&style=flat-square&color=E05A88" alt="Profile Views"/>
 </p>
