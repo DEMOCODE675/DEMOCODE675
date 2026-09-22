@@ -24,14 +24,19 @@
 <!-- 🏆 GitHub Achievements -->
 <h3 align="center" style="color: #E05A88;">🏆 GitHub Achievements</h3>
 <p align="center">
+  <!-- Pull Shark (Original Blue / 1x) -->
   <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="95" height="95" alt="Pull Shark Blue" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-bronze.png" width="95" height="95" alt="Pull Shark Bronze" />
+  <!-- Pull Shark (Bronze / 2x Tier) -->
+  <img src="https://github.githubassets.com/assets/pull-shark-bronze-a1a7e2ecc583.png" width="95" height="95" alt="Pull Shark Bronze" />
   &nbsp;&nbsp;
+  <!-- Quickdraw -->
   <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="95" height="95" alt="Quickdraw" />
   &nbsp;&nbsp;
+  <!-- YOLO -->
   <img src="https://github.githubassets.com/assets/yolo-default-be0bbff049e3.png" width="95" height="95" alt="YOLO" />
   &nbsp;&nbsp;
+  <!-- Pair Extraordinaire -->
   <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-9994293a5168.png" width="95" height="95" alt="Pair Extraordinaire" />
 </p>
 
