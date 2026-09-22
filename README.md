@@ -1,51 +1,85 @@
-<h1 align="center">Hi 👋, I'm DEMOCODE675</h1>
-<h3 align="center">Full-Stack Dev • DSA in Java • Exploring Cybersecurity</h3>
+<h1 align="center" style="color: #E05A88;">Hi 👋, I'm DEMOCODE675</h1>
+<h3 align="center" style="color: #D6C7B2;">Full-Stack Dev • DSA in Java • Exploring Cybersecurity</h3>
 
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+full-stack+web+apps;Solving+DSA+in+Java;Exploring+systems+%26+security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E05A88&center=true&vCenter=true&width=435&lines=Building+full-stack+web+apps;Solving+DSA+in+Java;Exploring+systems+%26+security" alt="Typing SVG" />
 </p>
 
+<!-- Tech Stack Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Java-3D2630?style=flat-square&logo=openjdk&logoColor=E05A88" alt="Java"/>
+  <img src="https://img.shields.io/badge/-C-D6C7B2?style=flat-square&logo=c&logoColor=1E1B1E" alt="C"/>
+  <img src="https://img.shields.io/badge/-Python-3D2630?style=flat-square&logo=python&logoColor=E05A88" alt="Python"/>
+  <img src="https://img.shields.io/badge/-JavaScript-D6C7B2?style=flat-square&logo=javascript&logoColor=1E1B1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-React-3D2630?style=flat-square&logo=react&logoColor=E05A88" alt="React"/>
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-D6C7B2?style=flat-square&logo=tailwind-css&logoColor=1E1B1E" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/-Firebase-3D2630?style=flat-square&logo=firebase&logoColor=E05A88" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/-Appwrite-D6C7B2?style=flat-square&logo=appwrite&logoColor=1E1B1E" alt="Appwrite"/>
+  <img src="https://img.shields.io/badge/-Vercel-3D2630?style=flat-square&logo=vercel&logoColor=E05A88" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/-Git-D6C7B2?style=flat-square&logo=git&logoColor=1E1B1E" alt="Git"/>
+  <img src="https://img.shields.io/badge/-Linux-3D2630?style=flat-square&logo=linux&logoColor=E05A88" alt="Linux"/>
 </p>
 
+<!-- ✨ Featured Projects -->
+<h3 align="center" style="color: #E05A88;">✨ Featured Projects</h3>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #3D2630; padding: 12px; border-radius: 8px;">
+      <h4 style="margin: 0;"><a href="https://github.com/DEMOCODE675" style="color: #E05A88; text-decoration: none;">🚀 Project Title 1</a></h4>
+      <p style="color: #D6C7B2; font-size: 13px; margin: 8px 0;">
+        Full-stack web application built with modern architecture, responsive UI, and backend authentication.
+      </p>
+      <p style="margin: 0;">
+        <img src="https://img.shields.io/badge/React-3D2630?style=flat-square&logo=react&logoColor=E05A88" alt="React"/>
+        <img src="https://img.shields.io/badge/Tailwind-D6C7B2?style=flat-square&logo=tailwind-css&logoColor=1E1B1E" alt="Tailwind"/>
+      </p>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #3D2630; padding: 12px; border-radius: 8px;">
+      <h4 style="margin: 0;"><a href="https://github.com/DEMOCODE675" style="color: #E05A88; text-decoration: none;">🧩 Project Title 2</a></h4>
+      <p style="color: #D6C7B2; font-size: 13px; margin: 8px 0;">
+        Core implementations of Data Structures & Algorithms with optimal time and space complexity.
+      </p>
+      <p style="margin: 0;">
+        <img src="https://img.shields.io/badge/Java-3D2630?style=flat-square&logo=openjdk&logoColor=E05A88" alt="Java"/>
+        <img src="https://img.shields.io/badge/DSA-D6C7B2?style=flat-square&logoColor=1E1B1E" alt="DSA"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- 🐍 Contribution Activity -->
+<h3 align="center" style="color: #E05A88;">📈 Contribution Activity</h3>
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=DEMOCODE675&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEMOCODE675&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://svg-banners.terminal.sexy/banners/DEMOCODE675.svg" style="display:none;" />
+  <img src="https://raw.githubusercontent.com/DEMOCODE675/DEMOCODE675/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" onerror="this.onerror=null; this.src='https://github-readme-streak-stats.herokuapp.com/?user=DEMOCODE675&background=1E1B1E&ring=E05A88&fire=E05A88&currStreakLabel=D6C7B2&stroke=3D2630&currStreakNum=F5EBE6&sideNums=F5EBE6&sideLabels=D6C7B2&dates=9C8E85';" />
 </p>
 
+<!-- 🏆 GitHub Profile Trophies -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEMOCODE675&theme=radical&hide_border=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DEMOCODE675&theme=gitdimmed&column=6&margin-w=10&margin-h=10&no-bg=false&no-frame=true" alt="Trophies" />
 </p>
 
-<h3 align="center">📈 Contribution Activity</h3>
-
+<!-- 🔥 Streak Stats -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DEMOCODE675/DEMOCODE675/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEMOCODE675&background=1E1B1E&ring=E05A88&fire=E05A88&currStreakLabel=D6C7B2&stroke=3D2630&currStreakNum=F5EBE6&sideNums=F5EBE6&sideLabels=D6C7B2&dates=9C8E85" alt="Streak Stats" />
 </p>
 
+<!-- Social Links -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DEMOCODE675&theme=radical&no-frame=true&row=1&column=6" alt="trophies"/>
+  <a href="https://github.com/DEMOCODE675" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-1E1B1E?style=for-the-badge&logo=github&logoColor=D6C7B2" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-3D2630?style=for-the-badge&logo=linkedin&logoColor=E05A88" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-D6C7B2?style=for-the-badge&logo=leetcode&logoColor=1E1B1E" alt="LeetCode"/>
   </a>
 </p>
 
+<!-- Profile Views -->
 <p align="center">
-  <a href="https://github.com/DEMOCODE675"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DEMOCODE675&style=flat-square&color=blueviolet" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=DEMOCODE675&style=flat-square&color=E05A88" alt="profile views"/>
 </p>
