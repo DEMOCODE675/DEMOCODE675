@@ -21,44 +21,10 @@
   <img src="https://img.shields.io/badge/-Linux-3D2630?style=flat-square&logo=linux&logoColor=E05A88" alt="Linux"/>
 </p>
 
-<!-- ✨ Featured Projects -->
-<h3 align="center" style="color: #E05A88;">✨ Featured Projects</h3>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top" style="border: 1px solid #3D2630; padding: 12px; border-radius: 8px;">
-      <h4 style="margin: 0;"><a href="https://github.com/DEMOCODE675" style="color: #E05A88; text-decoration: none;">🚀 Project Title 1</a></h4>
-      <p style="color: #D6C7B2; font-size: 13px; margin: 8px 0;">
-        Full-stack web application built with modern architecture, responsive UI, and backend authentication.
-      </p>
-      <p style="margin: 0;">
-        <img src="https://img.shields.io/badge/React-3D2630?style=flat-square&logo=react&logoColor=E05A88" alt="React"/>
-        <img src="https://img.shields.io/badge/Tailwind-D6C7B2?style=flat-square&logo=tailwind-css&logoColor=1E1B1E" alt="Tailwind"/>
-      </p>
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #3D2630; padding: 12px; border-radius: 8px;">
-      <h4 style="margin: 0;"><a href="https://github.com/DEMOCODE675" style="color: #E05A88; text-decoration: none;">🧩 Project Title 2</a></h4>
-      <p style="color: #D6C7B2; font-size: 13px; margin: 8px 0;">
-        Core implementations of Data Structures & Algorithms with optimal time and space complexity.
-      </p>
-      <p style="margin: 0;">
-        <img src="https://img.shields.io/badge/Java-3D2630?style=flat-square&logo=openjdk&logoColor=E05A88" alt="Java"/>
-        <img src="https://img.shields.io/badge/DSA-D6C7B2?style=flat-square&logoColor=1E1B1E" alt="DSA"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<!-- 🐍 Contribution Activity -->
-<h3 align="center" style="color: #E05A88;">📈 Contribution Activity</h3>
-<p align="center">
-  <img src="https://svg-banners.terminal.sexy/banners/DEMOCODE675.svg" style="display:none;" />
-  <img src="https://raw.githubusercontent.com/DEMOCODE675/DEMOCODE675/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" onerror="this.onerror=null; this.src='https://github-readme-streak-stats.herokuapp.com/?user=DEMOCODE675&background=1E1B1E&ring=E05A88&fire=E05A88&currStreakLabel=D6C7B2&stroke=3D2630&currStreakNum=F5EBE6&sideNums=F5EBE6&sideLabels=D6C7B2&dates=9C8E85';" />
-</p>
-
 <!-- 🏆 GitHub Profile Trophies -->
+<h3 align="center" style="color: #E05A88;">🏆 GitHub Achievements & Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DEMOCODE675&theme=gitdimmed&column=6&margin-w=10&margin-h=10&no-bg=false&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DEMOCODE675&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="DEMOCODE675 Trophies" />
 </p>
 
 <!-- 🔥 Streak Stats -->
