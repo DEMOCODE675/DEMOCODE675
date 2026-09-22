@@ -1,5 +1,5 @@
-<h1 align="center" style="color: #E05A88;">Hi 👋, I'm DEMOCODE675</h1>
-<h3 align="center" style="color: #D6C7B2;">Full-Stack Dev • DSA in Java • Exploring Cybersecurity</h3>
+<h1 align="center" style="color: #E05A88;">Hi there, I'm Priyanshu</h1>
+<h2 align="center" style="color: #D6C7B2;">Open Source contributor • Full-Stack Dev • DSA in Java • Exploring Cybersecurity</h2>
 
 <!-- Typing SVG -->
 <p align="center">
@@ -22,7 +22,7 @@
 </p>
 
 <!-- 🏆 GitHub Achievements -->
-<h3 align="center" style="color: #E05A88;">🏆 GitHub Achievements</h3>
+<h3 align="center" style="color: #E05A88;">GitHub Achievements</h3>
 <p align="center">
   <!-- Pull Shark (Original Blue) -->
   <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="95" height="95" style="border-radius: 50%;" alt="Pull Shark Blue" />
@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/GitHub-1E1B1E?style=for-the-badge&logo=github&logoColor=D6C7B2" alt="GitHub"/>
   </a>
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-3D2630?style=for-the-badge&logo=linkedin&logoColor=E05A88" alt="LinkedIn"/>
+    <img src="https://www.linkedin.com/in/priyanshu-baudh-510a3737b/?&logo=linkedin&logoColor=E05A88" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-D6C7B2?style=for-the-badge&logo=leetcode&logoColor=1E1B1E" alt="LeetCode"/>
